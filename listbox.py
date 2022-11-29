@@ -13,7 +13,7 @@ window.columnconfigure(1,weight =3)
 #restaurante_menu.grid(column=0,row=0,sticky=tkinter.W,padx=10,pady=10)
 
 label_tituloR = ttk.Label(window,
-    text="Restorán \n 'Donde Danisha'",
+    text="Restaurante \n 'Donde Danisha'",
     #tkinter.bg == "orange",tkinter.fg == "black",
     font = "Arial 18 bold")
     #relief=tkinter.GROOVE,bd= 2,
